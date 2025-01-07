@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "login": "google",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4",
+            "__typename": "Organization"
+        },
+        {
+            "login": "google-gemini",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/161781182?v=4",
+            "__typename": "Organization"
+        },
+        {
+            "login": "tensorflow",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
+            "__typename": "Organization"
+        },
+        {
+            "login": "keras",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/34455048?v=4",
+            "__typename": "Organization"
+        }
+    ]
+}

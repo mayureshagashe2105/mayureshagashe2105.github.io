@@ -1,0 +1,3 @@
+User-Agent: *
+
+Sitemap: https://mayureshagashe2105.github.io/sitemap.xml
